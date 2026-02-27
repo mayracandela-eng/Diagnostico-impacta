@@ -1,1 +1,1 @@
-# Diagnostico-impacta
+diagnostico-impacta.html
